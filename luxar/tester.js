@@ -1,2 +1,2 @@
-// const luxar = require('./luxar.min.js');
+const luxar = require('./luxar.min.js');
 
