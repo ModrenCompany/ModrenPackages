@@ -1,7 +1,7 @@
 {
   "name": "luxar",
-  "version": "7.8.5",
-  "description": "a Simple Package",
+  "version": "7.9.2",
+  "description": "a advanced Package",
   "main": "luxar.min.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
