@@ -1,4 +1,4 @@
-# Luxar v7.9.5 - CopyRight©
+# Luxar v7.9.6 - CopyRight©
 
   # How-to use Patcher
     const luxar = require('luxar');
